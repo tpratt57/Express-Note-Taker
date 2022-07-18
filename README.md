@@ -1,4 +1,5 @@
-# Express-Note-Taker
+# Express-Note-Taker  
+The Express Notetaker application allows a user to create and save notes. Notes may also be deleted. 
 
 ## User Story
 AS A small business owner  
@@ -25,3 +26,11 @@ HTML
 CSS  
 JavaScript  
 Express.js  
+
+### Screenshot  
+![Desktop Screenshot 2022 07 17 - 23 49 29 60](https://user-images.githubusercontent.com/104174101/179447063-4d7f0f85-8dc7-46db-8191-364a540f7a4c.png)
+
+
+### Application Link  
+http://express-note-taker.herokuapp.com/  
+
